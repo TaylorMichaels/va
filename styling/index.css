@@ -17,3 +17,6 @@ body {
     margin-bottom: 20px;
   }
   
+  audio {
+    max-width: 100%;
+  }
